@@ -1,0 +1,74 @@
+body{
+  text-align: center;
+  background: linear-gradient( #42e9f5 20%,#42b3f5 70%);
+
+}
+.img1{
+  height:500px;
+  width:500px;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: cornsilk;
+
+}
+#intro{
+  background: linear-gradient( #424bf5 20%,#42f575 70%);
+
+}
+#websites{
+  background: linear-gradient( #f2ec41 20%,#424bf5 70%);
+}
+#app{
+  background: linear-gradient( #425df5 20%,#42e6f5 70%);
+}
+
+.p{
+text-align: left;
+color: rgb(55, 84, 212);
+size: 40px;
+
+}
+
+
+
+
+.line{
+  height: 6px;
+  background-color: black;
+  width:70px;
+  margin:8px auto;
+}
+
+.menu{
+ list-style: none;
+  font-family:cursive;
+ float:right;
+  top:10px;
+  right:30px;
+  cursor: pointer;
+  color:black;
+}
+.menu a{
+  color:black !important;
+}
+
+
+.link{
+  color:crimson;
+  display: inline;
+  padding-top:5px;
+  padding-left:9px;
+  padding-right:9px;
+  padding-bottom: 5px;
+}
+ .link:hover{
+  background-color:beige;
+
+
+
+
+
+  
+  margin:20px;
+
+ }
